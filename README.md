@@ -27,9 +27,9 @@
 - 여가생활 데이터 분석
 <img width="541" alt="스크린샷 2023-10-26 오후 6 36 03" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/7d9755d4-f2d0-4c0e-b23b-18d39ffc87b8">
 - 치매 예방 프로그램 적합도 도출
-<img width="595" alt="스크린샷 2023-10-26 오후 6 36 19" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/b6c6a4d6-23c3-4298-91ee-67f9edac4919">
+<img width="595" alt="스크린샷 2023-10-26 오후 6 36 19" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/b6c6a4d6-23c3-4298-91ee-67f9edac4919">  
 - 결과
-<img width="607" alt="스크린샷 2023-10-26 오후 6 37 20" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/7c03bacd-8273-46a0-84ea-2d7e794f21f4">
+<img width="607" alt="스크린샷 2023-10-26 오후 6 37 20" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/7c03bacd-8273-46a0-84ea-2d7e794f21f4">  
 
 # 6. 기대효과
 <img width="595" alt="스크린샷 2023-10-26 오후 6 38 43" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/4bc355a8-cf08-44f9-a26b-e5b17d2664ca">
