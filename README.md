@@ -1,5 +1,3 @@
-<img width="84" alt="스크린샷 2023-10-26 오후 6 33 17" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/6611fdd8-11c1-4d26-a763-76fc1ceb0708">
-
 # 1. 프로젝트
 여가생활 기반 노인치매 예방을 위한 정책 방향 제시
 
