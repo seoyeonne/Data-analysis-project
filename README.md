@@ -18,20 +18,24 @@
 - 국가통계포털
 - 서울열린데이터광장
 - 공공데이터포털
-<img width="400" alt="스크린샷 2023-10-26 오후 6 28 41" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/6ad5c025-5e10-4dc0-9b54-371e860d1807">
+<img width="1121" alt="스크린샷 2023-10-31 오후 1 51 50" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/42ebd587-9536-4fb5-a3a2-1c9ea63e5fbe">
+
 
 # 5. 결과
 ### 5.1 최적의 지역 선정 결과
-<img width="560" alt="스크린샷 2023-10-26 오후 6 33 10" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/1c30de81-9b99-4e39-a885-9864165e8a34"><img width="66" alt="스크린샷 2023-10-26 오후 6 33 25" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/a29bac2e-50d9-4813-93d1-1ffb62cd2e72">
+<img width="1121" alt="스크린샷 2023-10-31 오후 1 52 36" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/cdde7118-0b12-4118-bc1c-7c066d8de56b">
+<img width="1000" alt="스크린샷 2023-10-31 오후 1 53 20" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/3e968e98-3d03-4278-a365-7257c0814b74"><img width="121" alt="스크린샷 2023-10-31 오후 1 53 42" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/1b313768-a81d-4dcf-90c4-a12f32581a34">
+
 ### 5.2 치매예방과 여가활동 적합도 계산 결과
 - 여가생활 데이터 분석
-<img width="541" alt="스크린샷 2023-10-26 오후 6 36 03" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/7d9755d4-f2d0-4c0e-b23b-18d39ffc87b8">
+<img width="1121" alt="스크린샷 2023-10-31 오후 1 54 49" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/4ea2526b-b31f-4813-aade-59dfcdba424a">
 
 - 치매 예방 프로그램 적합도 도출
-<img width="595" alt="스크린샷 2023-10-26 오후 6 36 19" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/b6c6a4d6-23c3-4298-91ee-67f9edac4919">
+<img width="1121" alt="스크린샷 2023-10-31 오후 1 54 29" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/c6771062-42dd-4e9a-8808-ec658dce6779">
 
 - 결과
-<img width="607" alt="스크린샷 2023-10-26 오후 6 37 20" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/7c03bacd-8273-46a0-84ea-2d7e794f21f4">  
+ <img width="1121" alt="스크린샷 2023-10-31 오후 1 55 17" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/da8d68cd-58f3-4a1a-ac08-b3fd231bb344">
 
 # 6. 기대효과
-<img width="595" alt="스크린샷 2023-10-26 오후 6 38 43" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/4bc355a8-cf08-44f9-a26b-e5b17d2664ca">
+<img width="1121" alt="스크린샷 2023-10-31 오후 1 55 40" src="https://github.com/seoyeonne/Data-analysis-project/assets/80025812/690a015e-7d8d-4709-801d-f833a5c01c9f">
+
